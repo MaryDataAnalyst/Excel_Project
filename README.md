@@ -1,4 +1,4 @@
-### Coffee Sales Dashboard
+## Coffee Sales Dashboard
  
 The coffee sales dashboard has such charts as Total Sales, Sales by Country, and Top 5 Customers.
 
